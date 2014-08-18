@@ -1,9 +1,10 @@
 <?php
 /**
 *
+* [Dutch]
 * Board Announcements extension for the phpBB Forum Software package.
 *
-* @copyright (c) 2014 phpBB Limited <https://www.phpbb.com>
+* @copyright (c) 2014 phpBB Limited <https://www.phpbb.com>, Dutch Translation
 * @license GNU General Public License, version 2 (GPL-2.0)
 *
 */
@@ -39,9 +40,9 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	// ACP Module
-	'ACP_BOARD_ANNOUNCEMENTS'				=> 'Board Announcements',
-	'ACP_BOARD_ANNOUNCEMENTS_SETTINGS'		=> 'Announcement settings',
+	'ACP_BOARD_ANNOUNCEMENTS'				=> 'Forumaankondigingen',
+	'ACP_BOARD_ANNOUNCEMENTS_SETTINGS'		=> 'Aankondigingsinstellingen',
 
 	// ACP Logs
-	'BOARD_ANNOUNCEMENTS_UPDATED_LOG'		=> '<strong>Altered board announcement settings</strong>',
+	'BOARD_ANNOUNCEMENTS_UPDATED_LOG'		=> '<strong>Forumaankondigings-instellingen aangepast</strong>',
 ));
