@@ -4,7 +4,7 @@
 * [Dutch]
 * Board Announcements extension for the phpBB Forum Software package.
 *
-* @copyright (c) 2014 phpBB Limited <https://www.phpbb.com>, Dutch Translations
+* @copyright (c) 2014 phpBB Limited <https://www.phpbb.com>, Dutch Translator <https://github.com/dutch-translators>
 * @license GNU General Public License, version 2 (GPL-2.0)
 *
 */

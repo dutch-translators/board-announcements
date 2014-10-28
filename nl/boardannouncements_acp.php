@@ -4,7 +4,7 @@
 * [Dutch]
 * Board Announcements extension for the phpBB Forum Software package.
 *
-* @copyright (c) 2014 phpBB Limited <https://www.phpbb.com>, Dutch Translations
+* @copyright (c) 2014 phpBB Limited <https://www.phpbb.com>, Dutch Translators <https://github.com/dutch-translators>
 * @license GNU General Public License, version 2 (GPL-2.0)
 *
 */
@@ -45,8 +45,8 @@ $lang = array_merge($lang, array(
 	'BOARD_ANNOUNCEMENTS_ENABLE'			=> 'Forumaankondigingen inschakelen',
 	'BOARD_ANNOUNCEMENTS_GUESTS'			=> 'Sta gasten toe om deze forumaankondiging te bekijken',
 
-	'BOARD_ANNOUNCEMENTS_BGCOLOR'			=> 'Forumaankondiging achtergrondskleur',
-	'BOARD_ANNOUNCEMENTS_BGCOLOR_EXPLAIN'	=> 'Je kan de achtergrondskleur van de aankondiging veranderen door gebruik te maken van een hex-code (bijv.: FFFF80). Laat dit veld leeg om de standaard kleur te gebruiken.',
+	'BOARD_ANNOUNCEMENTS_BGCOLOR'			=> 'Forumaankondiging-achtergrondkleur',
+	'BOARD_ANNOUNCEMENTS_BGCOLOR_EXPLAIN'	=> 'Je kan de achtergrondkleur van de aankondiging veranderen door gebruik te maken van een hex-code (bijv.: FFFF80). Laat dit veld leeg om de standaard kleur te gebruiken.',
 
 	'BOARD_ANNOUNCEMENTS_TEXT'				=> 'Forumaankondigings-bericht',
 	'BOARD_ANNOUNCEMENTS_PREVIEW'			=> 'Forumaankondiging - Voorbeeld',
