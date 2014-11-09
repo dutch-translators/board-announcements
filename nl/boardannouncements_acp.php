@@ -44,6 +44,7 @@ $lang = array_merge($lang, array(
 
 	'BOARD_ANNOUNCEMENTS_ENABLE'			=> 'Forumaankondigingen inschakelen',
 	'BOARD_ANNOUNCEMENTS_GUESTS'			=> 'Sta gasten toe om deze forumaankondiging te bekijken',
+	'BOARD_ANNOUNCEMENTS_DISMISS'			=> 'Sta gebruikers toe om deze forumaankondiging te sluiten',
 
 	'BOARD_ANNOUNCEMENTS_BGCOLOR'			=> 'Forumaankondiging-achtergrondkleur',
 	'BOARD_ANNOUNCEMENTS_BGCOLOR_EXPLAIN'	=> 'Je kan de achtergrondkleur van de aankondiging veranderen door gebruik te maken van een hex-code (bijv.: FFFF80). Laat dit veld leeg om de standaard kleur te gebruiken.',
