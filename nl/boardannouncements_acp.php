@@ -42,7 +42,7 @@ $lang = array_merge($lang, array(
 	'BOARD_ANNOUNCEMENTS_SETTINGS'			=> 'Forumaankondigings-instellingen',
 	'BOARD_ANNOUNCEMENTS_SETTINGS_EXPLAIN'	=> 'Hier kan je een forumaankondiging beheren en aanmaken, die weergegeven zal worden op elke pagina van je forum.',
 
-	'BOARD_ANNOUNCEMENTS_ENABLE'			=> 'Forumaankondigingen inschakelen',
+	'BOARD_ANNOUNCEMENTS_ENABLE'                    => 'Laat deze forumaankondiging zien',
 	'BOARD_ANNOUNCEMENTS_GUESTS'			=> 'Sta gasten toe om deze forumaankondiging te bekijken',
 	'BOARD_ANNOUNCEMENTS_DISMISS'			=> 'Sta gebruikers toe om deze forumaankondiging te sluiten',
 
